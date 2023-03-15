@@ -1,5 +1,5 @@
 # TicTacToe
-*****IMPORTANT***** This porgram uses In.get not a scanner to get user input.
+*****IMPORTANT***** This program uses In.get not a scanner to get user input.
 
 Using a variety of different methods, I have created a Tic Tac Toe game with 3 modes: Easy, Hard, 2player.
 Firstly it's the do loop that starts the code when the user has inputted start case insensitive
